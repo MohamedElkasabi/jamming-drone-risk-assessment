@@ -28,8 +28,8 @@ Out of scope:
 
 | File | Description |
 |------|-------------|
-| `RISK_ASSESSMENT.md` | Full narrative risk assessment (governance, controls, residual risk) |
-| `Risk_Register.xlsx` | Detailed risk register with scoring, controls, ownership, and status |
+| `Jamming Drone — Risk Assessment (Mini Case Study).pdf` | Full narrative risk assessment (governance, controls, residual risk) |
+| `Risk Register (JD).xlsx` | Detailed risk register with scoring, controls, ownership, and status |
 
 ---
 
